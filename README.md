@@ -1,5 +1,5 @@
 # amazon-fires-prediction
-This README describes work done predicting spot fires in the Amazon forest, as the mid-project of the Ironhack Data Analytics Bootcamp. Resources used include Python and associated packages.
+This README describes work done predicting spot fires in the Amazon forest, as part of the mid-project of the Ironhack Data Analytics Bootcamp. Resources used include Python and associated packages.
 
 [![Amazon](https://i.postimg.cc/wBDLMm6P/Amazon.png)](https://postimg.cc/R3VNbqJQ)
 
