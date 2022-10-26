@@ -53,8 +53,10 @@ EDA and Prediction model were developed using the following Python libraries:
 
 ## Sources
 
-The database is from Kaggle, called Brazilian Legal amazon fire emissions.
+The database is from Kaggle, called Brazilian Legal amazon fire emissions:
 (https://www.kaggle.com/datasets/mateus558/brazilian-legal-amazon-burned-area-dataset?datasetId=1222181)
+
+Direct link for the database in google drive: (https://drive.google.com/drive/folders/1XzCcsPps-TzzP7d2mO5-N08DlFe0myRH?usp=sharing)
 
 ## Credits
 
